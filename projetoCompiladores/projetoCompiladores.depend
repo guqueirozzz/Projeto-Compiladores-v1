@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583885178 source:c:\users\unifgqueiroz\downloads\projetocompiladores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1583885178 
+
+1584491189 source:/home/gustavoq/Downloads/projetoCompiladores/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
